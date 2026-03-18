@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This is Version control.
 Welcome
 Heading
+=======
+This is index.
+>>>>>>> parent of 17a3858 (Second Change)
