@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is Version control.
 Welcome
+=======
+This is index.
+>>>>>>> parent of 92772c2 (Local change saved)
 Heading
 =======
 This is index.
