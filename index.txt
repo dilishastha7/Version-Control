@@ -1,8 +1,4 @@
-This is Version control. yes
-
+This is Version control.
 This is index.
 this is the final change made
-
-This is not Java Class
-
-welcome to my workStation
+This is main.
